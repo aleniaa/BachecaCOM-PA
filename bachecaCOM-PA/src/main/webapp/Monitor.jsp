@@ -14,6 +14,8 @@
 <div id="intestazione" ><h2>Comando Vigili del Fuoco Palermo </h2></div>
 <div id="visualizzatore">
 <canvas id="displayed" ></canvas>
+
+ciao 
 </div>
 
 
