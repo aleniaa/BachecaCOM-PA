@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: red;
+}
+
+#intestazione {
+	text-align: center;
+	color: white;
+	}
+	
+#visualizzatore {
+	background-color: white;
+}
+
+#displayed {
+	width: auto;
+	height: auto;
+}
