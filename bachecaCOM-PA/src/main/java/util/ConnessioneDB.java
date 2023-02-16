@@ -1,5 +1,6 @@
 package util;
 
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -16,6 +17,7 @@ public class ConnessioneDB {
     private  Connection connection = null;
     private PreparedStatement statement = null;
     private ResultSet rs = null;
+    
     
     public Connection apriConnessione() throws NamingException, SQLException {
     	try {
